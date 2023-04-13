@@ -16,9 +16,6 @@
 #include "logo.h"
 #include "images.h"
 #include "meteo.h"
-//#include "fonction.h"
-
-
 
 //*************************************************
 //                  COMPANION                    **
